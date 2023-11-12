@@ -1,0 +1,8 @@
+prefix=/home/taylor/catkin_ws/devel
+
+Name: bluetooth_interface
+Description: Description of bluetooth_interface
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
